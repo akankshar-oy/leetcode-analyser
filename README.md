@@ -40,4 +40,19 @@ jupyter notebook Leetcode_analyser.ipynb
 
 ## Usage
 
-### 1.Replace the username variable inside the notebook:
+1.Replace the username variable inside the notebook:
+```bash
+username = "your_leetcode_username"
+
+```
+2. Run all cells sequentially.
+
+3. The notebook will display your:
+
+Total solved problems
+
+Bar graphs by difficulty
+
+Tags and topic-wise solved count
+
+Visual submission history and streak data
