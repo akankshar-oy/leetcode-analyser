@@ -23,14 +23,14 @@ cd leetcode-analyser
 
 ```
 
-### 2.Install Required Libraries
+### 2. Install Required Libraries
 Install the dependencies using pip:
 ```bash
 pip install requests matplotlib
 
 ```
 
-### 3.Run the Notebook
+### 3. Run the Notebook
 
 Open the notebook in Jupyter:
 ```bash
@@ -40,7 +40,7 @@ jupyter notebook Leetcode_analyser.ipynb
 
 ## Usage
 
-1.Replace the username variable inside the notebook:
+1. Replace the username variable inside the notebook:
 ```bash
 username = "your_leetcode_username"
 
@@ -49,7 +49,8 @@ username = "your_leetcode_username"
 
 3. The notebook will display your:
 
--Total solved problems
--Bar graphs by difficulty
--Tags and topic-wise solved count
--Visual submission history and streak data
+- Total solved problems  
+- Bar graphs by difficulty  
+- Tags and topic-wise solved count  
+- Visual submission history and streak data  
+
