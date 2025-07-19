@@ -49,10 +49,7 @@ username = "your_leetcode_username"
 
 3. The notebook will display your:
 
-Total solved problems
-
-Bar graphs by difficulty
-
-Tags and topic-wise solved count
-
-Visual submission history and streak data
+-Total solved problems
+-Bar graphs by difficulty
+-Tags and topic-wise solved count
+-Visual submission history and streak data
